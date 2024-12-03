@@ -1,0 +1,362 @@
+[
+    {
+        "title": "What will you include in the meal for Breakfast?",
+        "type": "CHECKBOX",
+        "choices": [
+            {
+                "value": "Snacks & Toast"
+            },
+            {
+                "value": "Aloo Toast"
+            },
+            {
+                "value": "Paneer Toast"
+            },
+            {
+                "value": "Grilled Sandwich"
+            },
+            {
+                "value": "Snacks"
+            },
+            {
+                "value": "Aloo Samosa"
+            },
+            {
+                "value": "Sable Samosa (1 Pc.)"
+            },
+            {
+                "value": "Bread Pakora"
+            },
+            {
+                "value": "Butter Toast"
+            },
+            {
+                "value": "Jam Toast"
+            },
+            {
+                "value": "Cheese Toast"
+            },
+            {
+                "value": "Veg Puff"
+            },
+            {
+                "value": "Egg Puff"
+            },
+            {
+                "value": "French Fry"
+            },
+            {
+                "value": "Roti Sabji (Main Course)"
+            },
+            {
+                "value": "Paneer Bhujia"
+            },
+            {
+                "value": "Chhole Bhature"
+            },
+            {
+                "value": "Rajma Rice"
+            },
+            {
+                "value": "Kadhi Rice"
+            },
+            {
+                "value": "Kadhi Pakora + Rice + 2 Roti"
+            },
+            {
+                "value": "Chhole, Rajma, Kadhi Pakora"
+            },
+            {
+                "value": "Chinese"
+            },
+            {
+                "value": "Chilli Potato"
+            },
+            {
+                "value": "Plain Maggi"
+            },
+            {
+                "value": "Veg Maggi"
+            },
+            {
+                "value": "Paneer Masala Maggi"
+            },
+            {
+                "value": "Egg Maggi"
+            },
+            {
+                "value": "Fry Maggi"
+            },
+            {
+                "value": "Veg Chowmein"
+            },
+            {
+                "value": "Egg Chowmein"
+            },
+            {
+                "value": "Paneer Chowmein"
+            },
+            {
+                "value": "White Sauce Pasta"
+            },
+            {
+                "value": "Red Sauce Pasta"
+            },
+            {
+                "value": "Veg Singapuri Chowmein"
+            },
+            {
+                "value": "Egg Singapuri Chowmein"
+            },
+            {
+                "value": "Paneer Singapuri Chowmein"
+            },
+            {
+                "value": "Half Egg Chowmein"
+            },
+            {
+                "value": "Half Paneer Chowmein"
+            }
+        ]
+    },
+    {
+        "title": "What will you include in the meal for Lunch?",
+        "type": "CHECKBOX",
+        "choices": [
+            {
+                "value": "Snacks & Toast"
+            },
+            {
+                "value": "Aloo Toast"
+            },
+            {
+                "value": "Paneer Toast"
+            },
+            {
+                "value": "Grilled Sandwich"
+            },
+            {
+                "value": "Snacks"
+            },
+            {
+                "value": "Aloo Samosa"
+            },
+            {
+                "value": "Sable Samosa (1 Pc.)"
+            },
+            {
+                "value": "Bread Pakora"
+            },
+            {
+                "value": "Butter Toast"
+            },
+            {
+                "value": "Jam Toast"
+            },
+            {
+                "value": "Cheese Toast"
+            },
+            {
+                "value": "Veg Puff"
+            },
+            {
+                "value": "Egg Puff"
+            },
+            {
+                "value": "French Fry"
+            },
+            {
+                "value": "Roti Sabji (Main Course)"
+            },
+            {
+                "value": "Paneer Bhujia"
+            },
+            {
+                "value": "Chhole Bhature"
+            },
+            {
+                "value": "Rajma Rice"
+            },
+            {
+                "value": "Kadhi Rice"
+            },
+            {
+                "value": "Kadhi Pakora + Rice + 2 Roti"
+            },
+            {
+                "value": "Chhole, Rajma, Kadhi Pakora"
+            },
+            {
+                "value": "Chinese"
+            },
+            {
+                "value": "Chilli Potato"
+            },
+            {
+                "value": "Plain Maggi"
+            },
+            {
+                "value": "Veg Maggi"
+            },
+            {
+                "value": "Paneer Masala Maggi"
+            },
+            {
+                "value": "Egg Maggi"
+            },
+            {
+                "value": "Fry Maggi"
+            },
+            {
+                "value": "Veg Chowmein"
+            },
+            {
+                "value": "Egg Chowmein"
+            },
+            {
+                "value": "Paneer Chowmein"
+            },
+            {
+                "value": "White Sauce Pasta"
+            },
+            {
+                "value": "Red Sauce Pasta"
+            },
+            {
+                "value": "Veg Singapuri Chowmein"
+            },
+            {
+                "value": "Egg Singapuri Chowmein"
+            },
+            {
+                "value": "Paneer Singapuri Chowmein"
+            },
+            {
+                "value": "Half Egg Chowmein"
+            },
+            {
+                "value": "Half Paneer Chowmein"
+            }
+        ]
+    },
+    {
+        "title": "What will you include in the meal for Dinner?",
+        "type": "CHECKBOX",
+        "choices": [
+            {
+                "value": "Snacks & Toast"
+            },
+            {
+                "value": "Aloo Toast"
+            },
+            {
+                "value": "Paneer Toast"
+            },
+            {
+                "value": "Grilled Sandwich"
+            },
+            {
+                "value": "Snacks"
+            },
+            {
+                "value": "Aloo Samosa"
+            },
+            {
+                "value": "Sable Samosa (1 Pc.)"
+            },
+            {
+                "value": "Bread Pakora"
+            },
+            {
+                "value": "Butter Toast"
+            },
+            {
+                "value": "Jam Toast"
+            },
+            {
+                "value": "Cheese Toast"
+            },
+            {
+                "value": "Veg Puff"
+            },
+            {
+                "value": "Egg Puff"
+            },
+            {
+                "value": "French Fry"
+            },
+            {
+                "value": "Roti Sabji (Main Course)"
+            },
+            {
+                "value": "Paneer Bhujia"
+            },
+            {
+                "value": "Chhole Bhature"
+            },
+            {
+                "value": "Rajma Rice"
+            },
+            {
+                "value": "Kadhi Rice"
+            },
+            {
+                "value": "Kadhi Pakora + Rice + 2 Roti"
+            },
+            {
+                "value": "Chhole, Rajma, Kadhi Pakora"
+            },
+            {
+                "value": "Chinese"
+            },
+            {
+                "value": "Chilli Potato"
+            },
+            {
+                "value": "Plain Maggi"
+            },
+            {
+                "value": "Veg Maggi"
+            },
+            {
+                "value": "Paneer Masala Maggi"
+            },
+            {
+                "value": "Egg Maggi"
+            },
+            {
+                "value": "Fry Maggi"
+            },
+            {
+                "value": "Veg Chowmein"
+            },
+            {
+                "value": "Egg Chowmein"
+            },
+            {
+                "value": "Paneer Chowmein"
+            },
+            {
+                "value": "White Sauce Pasta"
+            },
+            {
+                "value": "Red Sauce Pasta"
+            },
+            {
+                "value": "Veg Singapuri Chowmein"
+            },
+            {
+                "value": "Egg Singapuri Chowmein"
+            },
+            {
+                "value": "Paneer Singapuri Chowmein"
+            },
+            {
+                "value": "Half Egg Chowmein"
+            },
+            {
+                "value": "Half Paneer Chowmein"
+            }
+        ]
+    }
+]
